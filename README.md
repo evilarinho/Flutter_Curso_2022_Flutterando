@@ -45,6 +45,8 @@ CONCLUÍDO: 04/01/2022
 As pastas de uso desse curso:
 lib
 test (mas por hora não vamos usar e pode excluir)
+só alterar o pubspec.yaml
+não alterar o pubspec.lock
 
 
 ----------------------------------------------------------------------------------
