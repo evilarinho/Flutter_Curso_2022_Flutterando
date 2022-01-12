@@ -48,7 +48,6 @@ test (mas por hora não vamos usar e pode excluir)
 só alterar o pubspec.yaml
 não alterar o pubspec.lock
 
-
 ----------------------------------------------------------------------------------
 Flutter Curso 2022 #5 - Conhecendo o Hot Reload
 https://youtu.be/4ho31Ei3__o
@@ -59,13 +58,23 @@ CONCLUÍDO: 04/01/2022
 Flutter Curso 2022 #6 - Os botões de depuração do VSCode
 https://youtu.be/YEZlZ3a2aX4
 
-CONCLUÍDO: 04/01/2022
+CONCLUÍDO: 11/01/2022
 
 ----------------------------------------------------------------------------------
 Flutter Curso 2022 #7 - Criação de widgets
 https://youtu.be/u6Q60aDbE_E
 
 CONCLUÍDO: 04/01/2022
+
+O Flutter é declarativo porque ele desenha as telas com a linguagem de programação.
+
+Documentação oficial do Flutter para widgets
+https://docs.flutter.dev/development/ui/widgets-intro
+Catálogo de widgets 
+https://docs.flutter.dev/development/ui/widgets
+
+
+XXXXXXXX XXXXX>>>>>P A R E I
 
 ----------------------------------------------------------------------------------
 Flutter Curso 2022 #8 - O MaterialApp
@@ -112,3 +121,4 @@ CONCLUÍDO:
 
 *** FIM ***
 --------------------------------------
+
