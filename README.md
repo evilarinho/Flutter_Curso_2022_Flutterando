@@ -78,7 +78,7 @@ https://docs.flutter.dev/development/ui/widgets
 Flutter Curso 2022 #8 - O MaterialApp
 https://youtu.be/75E_oMq12Dw
 
-CONCLUÍDO:
+CONCLUÍDO: 23/01/2022
 
 Flutter totalmente baseado em herança da POO.
 
@@ -90,7 +90,7 @@ Page são Widgets que ocupam uma tela inteira.
 Flutter Curso 2022 #9 - ErrorLens e lint
 https://youtu.be/A4V8UYDcGOE
 
-CONCLUÍDO:
+CONCLUÍDO: 23/01/2022
 
 
 ----------------------------------------------------------------------------------

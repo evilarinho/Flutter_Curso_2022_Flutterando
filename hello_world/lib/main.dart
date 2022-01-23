@@ -4,25 +4,28 @@ void main() {
   runApp(MyApp());
 }
 
-// ignore: use_key_in_widget_constructors
 class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     // ignore: todo
     // TODO: implement build
     // ignore: prefer_const_constructors
     return MaterialApp(
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }
 
 class HomePage extends StatelessWidget {
+  const HomePage({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
     //throw UnimplementedError();
-    return Material(
+    return const Material(
       child: Center(
         child: Text('Flutterando'),
       ),
