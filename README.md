@@ -84,20 +84,20 @@ Flutter totalmente baseado em herança da POO.
 
 Page são Widgets que ocupam uma tela inteira.
 
-
-
 ----------------------------------------------------------------------------------
 Flutter Curso 2022 #9 - ErrorLens e lint
 https://youtu.be/A4V8UYDcGOE
 
 CONCLUÍDO: 23/01/2022
 
-
 ----------------------------------------------------------------------------------
 Flutter Curso 2022 #10 - O Scaffold
 https://youtu.be/6UBzv0ZBc9Q
 
-CONCLUÍDO:
+CONCLUÍDO: 23/01/2022
+
+Atividade extra: explorar os widgets do índice de widget de flutter da documentação oficial
+
 
 ----------------------------------------------------------------------------------
 Flutter Curso 2022 #11 - Componentizando widgets
