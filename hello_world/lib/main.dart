@@ -11,11 +11,20 @@ class MyApp extends StatelessWidget {
     // ignore: todo
     // TODO: implement build
     // ignore: prefer_const_constructors
-    return Center(
-      // ignore: prefer_const_constructors
-      child: Text(
-        'Flutterando',
-        textDirection: TextDirection.rtl,
+    return MaterialApp(
+      home: HomePage(),
+    );
+  }
+}
+
+class HomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    // TODO: implement build
+    //throw UnimplementedError();
+    return Material(
+      child: Center(
+        child: Text('Flutterando'),
       ),
     );
   }

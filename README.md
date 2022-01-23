@@ -68,19 +68,22 @@ CONCLUÍDO: 04/01/2022
 
 O Flutter é declarativo porque ele desenha as telas com a linguagem de programação.
 
+Se não componetizar vira código Hadouken (em "V")
 Documentação oficial do Flutter para widgets
 https://docs.flutter.dev/development/ui/widgets-intro
 Catálogo de widgets 
 https://docs.flutter.dev/development/ui/widgets
-
-
-XXXXXXXX XXXXX>>>>>P A R E I
 
 ----------------------------------------------------------------------------------
 Flutter Curso 2022 #8 - O MaterialApp
 https://youtu.be/75E_oMq12Dw
 
 CONCLUÍDO:
+
+Flutter totalmente baseado em herança da POO.
+
+Page são Widgets que ocupam uma tela inteira.
+
 
 
 ----------------------------------------------------------------------------------
@@ -121,4 +124,4 @@ CONCLUÍDO:
 
 *** FIM ***
 --------------------------------------
-
+XXXXXXXX XXXXX>>>>>P A R E I
