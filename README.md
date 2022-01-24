@@ -103,7 +103,7 @@ Atividade extra: explorar os widgets do índice de widget de flutter da document
 Flutter Curso 2022 #11 - Componentizando widgets
 https://youtu.be/VXh2gmS0jWU
 
-CONCLUÍDO:
+CONCLUÍDO: 23/01/2022
 
 
 ----------------------------------------------------------------------------------
