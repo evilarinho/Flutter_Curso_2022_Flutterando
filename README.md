@@ -117,9 +117,14 @@ CONCLUÍDO: 25/01/2022
 Flutter Curso 2022 #13 - O StatefulWidget
 https://youtu.be/hEdUYx-uwpg
 
-CONCLUÍDO:
+CONCLUÍDO: 25/01/2022
 
+1:49
 
+O Flutter tem apenas três tipos de widgets:
+- [x] StatelessWidget
+- [x] InheritedWidget
+- [x] StatefulWidget
 
 
 *** FIM ***
