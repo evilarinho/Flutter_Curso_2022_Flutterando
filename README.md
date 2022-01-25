@@ -96,7 +96,7 @@ https://youtu.be/6UBzv0ZBc9Q
 
 CONCLUÍDO: 23/01/2022
 
-Atividade extra: explorar os widgets do índice de widget de flutter da documentação oficial
+*** Atividade extra: explorar os widgets do Índice de Widget de Flutter da documentação oficial
 
 
 ----------------------------------------------------------------------------------
@@ -110,7 +110,7 @@ CONCLUÍDO: 23/01/2022
 Flutter Curso 2022 #12 - Primeira e última aula sobre InheritedWidget
 https://youtu.be/aTbuuvSq-Gs
 
-CONCLUÍDO:
+CONCLUÍDO: 25/01/2022
 
 
 ----------------------------------------------------------------------------------

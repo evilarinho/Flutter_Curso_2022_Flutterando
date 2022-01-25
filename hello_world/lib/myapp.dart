@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hello_world/home_controller.dart';
 import 'package:hello_world/home_page.dart';
 
 class MyApp extends StatelessWidget {
@@ -10,7 +11,9 @@ class MyApp extends StatelessWidget {
     // TODO: implement build
     // ignore: prefer_const_constructors
     return MaterialApp(
-      home: const HomePage(),
+      home: HomeController(
+        child: HomePage(),
+      ),
     );
   }
 }
